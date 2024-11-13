@@ -1,1 +1,1 @@
-The code will be made public upon acceptance of the paper.
+The code will be uploaded after the paper is accepted.
